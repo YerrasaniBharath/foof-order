@@ -1,0 +1,171 @@
+.logo-image {
+    width: 45px;
+    height: 45px;
+}
+
+.banner-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.logo-image {
+    width: 45px;
+    height: 45px;
+}
+
+.banner-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 300;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 300;
+}
+
+.custom-button {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: #d0b200;
+    background-color: transparent;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.card {
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    padding: 16px;
+}
+
+.color {
+    font-style: italic;
+    color: #323f4b;
+    font-weight: 700;
+}
+
+.explore-menu-section {
+    background-color: white;
+}
+
+.menu-image {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    width: 100%;
+    padding: 16px;
+}
+
+.menu-item-link {
+    color: #d0b200;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.header {
+    margin-left: 110px;
+    color: hwb(234 1% 69%);
+    font-size: 35px;
+    font-weight: 1px;
+}
+
+.menu-card {
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    padding: 16px;
+    shadow: 1px;
+}
+
+.button-card {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.card-free {
+    padding: 16px;
+}
+
+.image {
+    height: 45vh;
+    width: 40vh;
+}
+
+.header {
+    font-size: 35px;
+    font-weight: 50px;
+    color: black;
+}
+
+.button-card {
+    color: white;
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.image {
+    height: 45vh;
+    width: 40vh;
+}
+
+.background-color-card {
+    background-color: rgb(248, 248, 242);
+}
+
+.button-card {
+    color: rgb(206, 242, 243);
+    background-color: #d0b200;
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d0b200;
+    border-radius: 8px;
+}
+
+.image {
+    height: 45vh;
+    width: 40vh;
+}
+
+.background-color-card {
+    background-color: rgb(248, 248, 242);
+}
